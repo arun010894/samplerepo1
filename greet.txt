@@ -1,2 +1,6 @@
 hi da
+<<<<<<< HEAD
+new changes
+
 change in remote repo
+
